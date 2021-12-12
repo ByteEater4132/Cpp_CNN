@@ -1,0 +1,16 @@
+﻿  mian.cpp
+D:\sources\c\Project1\Project1\matiax.h(77,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\sources\c\Project1\Project1\matiax.h(79,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\sources\c\Project1\Project1\matiax.h(108,32): warning C4305: “=”: 从“double”到“float”截断
+D:\sources\c\Project1\Project1\matiax.h(111,32): warning C4305: “=”: 从“double”到“float”截断
+D:\sources\c\Project1\Project1\mian.cpp(18,42): warning C4305: “初始化”: 从“double”到“float”截断
+D:\sources\c\Project1\Project1\mian.cpp(208,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\sources\c\Project1\Project1\mian.cpp(213,33): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\sources\c\Project1\Project1\mian.cpp(284,80): warning C4305: “参数”: 从“const double”到“float”截断
+D:\sources\c\Project1\Project1\mian.cpp(301,79): warning C4305: “参数”: 从“const double”到“float”截断
+  正在生成代码
+  1 of 29 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> D:\sources\c\Project1\Release\Project1.exe
